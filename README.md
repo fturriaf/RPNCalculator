@@ -1,12 +1,14 @@
-An extremely simple and lightweight RPN Calculator. Not scientific, a classic, simple calculator for those who love RPN behavior.
-Few useful shorcuts:
-C = Clear all RPN Stack
-S = Swap last two values in the RPN Stack
-D = Duplicate last value in the RPN Stack
-I = 1/X the last value in the RPN Stack
-P or Backspace = delete last value in the RPN Stack
-Command-Z = Undo last operation
--> = decrease decimal places in the whole RPN Stack
-<- = increase decimal places in the whole RPN Stack
+An extremely simple and lightweight RPN calculator. It's not scientific but rather a classic, simple calculator for those who love RPN behavior.
+A few useful shortcuts:
+C = Clear all RPN stack
+S = Swap the last two values in the RPN stack
+D = Duplicate the last value in the RPN stack
+I = 1/X the last value in the RPN stack
+P or Backspace = Delete the last value in the RPN stack
+Command-Z = Undo the last operation
+-> = Decrease decimal places in the whole RPN stack
+<- = Increase decimal places in the entire RPN stack
 
-Love to hear any feedback
+I would love to hear any feedback.
+
+You may test it quickly here https://rpn-calculator-chi.vercel.app/
